@@ -1,6 +1,8 @@
 # NBA-Salary-Analysis
 This is a report of the analysis of NBA player salaries over the past decade. The primary objective of this research is to identify key factors contributing to the growth in average and total player salaries.
 
+-------------- Dataset taken from Kaggle.com --------------
+
 Key Objectives:
 
 Identifying Trends: Analyze trends such as the rise of 'superstar' player deals, salary disparities across teams, and salary growth by position.
